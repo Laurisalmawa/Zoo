@@ -15,6 +15,10 @@ Make shure you have the following installed:
 - [Git](https://git-scm.com/)
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 
+Then you should clone the repository like this:
+
+clone https://github.com/Laurisalmawa/Zoo.git
+
 ## Usages
 
 This project could be used to learn the fundamental pillars of the object-oriented programming and to get fun writing your favorite animal and getting a response with their movement.
