@@ -26,4 +26,5 @@ This project could be used to learn the fundamental pillars of the object-orient
 ## Contact
 
 Email: laurisalmawa05@gmail.com
+
 Project link: https://github.com/Laurisalmawa/Zoo
