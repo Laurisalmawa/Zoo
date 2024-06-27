@@ -1,5 +1,10 @@
 package com.laurisalmawa.zoo;
 
+import com.laurisalmawa.animals.Animal;
+import com.laurisalmawa.animals.Bird;
+import com.laurisalmawa.animals.Fish;
+import com.laurisalmawa.animals.Quadruped;
+
 import java.util.Scanner;
 
 public class Zoo {

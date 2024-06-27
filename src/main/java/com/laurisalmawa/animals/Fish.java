@@ -1,11 +1,8 @@
-package com.laurisalmawa.zoo;
-/**
- * Inheritance: Here we can see the inheritance, we have the Fish class who extends from Animal class, in that way,
- * this class inherits the properties and methods from the root class.
- */
+package com.laurisalmawa.animals;
 
-public class Fish extends Animal {
+import javax.xml.namespace.QName;
 
+public class Fish extends Animal{
     public Fish(String name, String movement, String specie) {
         super(name, movement, specie);
     }
@@ -16,4 +13,3 @@ public class Fish extends Animal {
         return super.getMovements();
     }
 }
-

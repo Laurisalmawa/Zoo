@@ -1,5 +1,7 @@
 package com.laurisalmawa.zoo;
 
+import com.laurisalmawa.animals.Animal;
+
 public class Trainer {
 
     public String call(Animal animal) {
@@ -17,6 +19,5 @@ public class Trainer {
         return animal.getMovements();
 
     }
-
 
 }

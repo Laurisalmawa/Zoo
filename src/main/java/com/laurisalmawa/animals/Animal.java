@@ -1,13 +1,7 @@
-package com.laurisalmawa.zoo;
+package com.laurisalmawa.animals;
 
 public class Animal {
     //Properties
-    /**
-     * Encapsulation: We have the properties from Animal class, these properties are private, in that way the only option to be able
-     * to use the property is by having access through the methods. We use the encapsulation to protect the properties
-     * from changes that could be done for security purpose like getting the full information or get access directly
-     * to the properties.
-     */
     private String name;
 
     private String movement;

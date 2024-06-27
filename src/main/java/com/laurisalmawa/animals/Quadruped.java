@@ -1,8 +1,6 @@
-package com.laurisalmawa.zoo;
+package com.laurisalmawa.animals;
 
-import javax.xml.namespace.QName;
-
-public class Quadruped extends Animal {
+public class Quadruped extends Animal{
 
     public Quadruped(String name, String movement, String specie) {
         super(name, movement,specie);
@@ -12,5 +10,4 @@ public class Quadruped extends Animal {
         System.out.println("Animal: Quadruped, " + getSpecie());
         return super.getMovements();
     }
-
 }
